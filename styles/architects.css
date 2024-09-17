@@ -1,0 +1,11 @@
+
+
+/* shared style */
+/* header shared stlyle */
+.bg-color{
+    background: rgba(255, 144, 14, 0.1);
+}
+/* navbar shared style */
+.display-flex{
+    display: flex;
+}
